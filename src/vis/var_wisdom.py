@@ -1,7 +1,7 @@
 import numpy as np
 
-smoke_threshold_int = 50
-smoke_threshold = 10
+smoke_threshold_int = 10
+smoke_threshold = 5
 
 def height8w(d,t):
       """
